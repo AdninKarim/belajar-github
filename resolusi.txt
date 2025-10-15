@@ -1,0 +1,4 @@
+RENCANA BELAJAR KEDEPANNYA
+-Bisa memahami apa itu VCS
+-perbedaan Git dan GItHub
+-belajar bersama teman dengan keahlian yang sama
