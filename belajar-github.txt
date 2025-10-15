@@ -1,0 +1,3 @@
+BELAJAR GITHUB
+-memahami dasar dasar VCS
+-mengenal lebih jauh tentang Git dan GitHub
